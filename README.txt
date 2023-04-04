@@ -1,2 +1,0 @@
-# AxisSamp
-first proj
